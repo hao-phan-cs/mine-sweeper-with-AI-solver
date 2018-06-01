@@ -1,0 +1,9 @@
+﻿  ConsoleApplication3.cpp
+d:\project\vs projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(146): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\project\vs projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(486): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\project\vs projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(760): warning C4102: 'check_restart': unreferenced label
+d:\project\vs projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(1260): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\project\vs projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(1269): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\project\vs projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(133): warning C4715: 'Map::getCharAt': not all control paths return a value
+  ConsoleApplication3.vcxproj -> D:\Project\VS Projects\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> D:\Project\VS Projects\ConsoleApplication3\x64\Debug\ConsoleApplication3.pdb (Full PDB)
